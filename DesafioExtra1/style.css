@@ -1,0 +1,70 @@
+body{
+  margin-top: 64px;
+  color: #3F3D56;
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+ 
+}
+#hero{
+  width: 626px;
+  margin: auto
+
+}
+h1{
+  margin-bottom: 16px;
+  margin-top: 32px;
+  font-size: 32px;
+  text-align: center;
+}
+p{
+margin: 16px 36px 53px 50px;
+color: #828282;
+text-align: center;
+font-family: 'Open Sans', sans-serif;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px; 
+}
+span{
+color: #EE24FF;
+
+}
+#Flutuar{
+color: #828282;
+
+}
+#texto2{
+  margin-bottom: 64px;
+}
+#pacotes{
+color: #3F3D56;
+
+}
+a{
+  color: #3F3D56;
+  font-size: 15px;
+  text-decoration: none;
+  font-weight: 700;
+  
+
+}
+a + a {
+  margin-left: 42px;
+}
+
+#svg{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  pointer-events: none;
+}
+#onda{
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  width: 100%;
+  
+  
+}

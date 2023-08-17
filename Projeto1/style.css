@@ -1,0 +1,53 @@
+h1{
+  font-family: 'inter', sans-serif;
+  font-size: 49px;
+  line-height: 56px;
+  font-weight: normal;
+  margin-bottom: 32px;
+}
+h1 span{
+  font-weight: bold;  
+}
+body{
+  font-family:'open-sans', sans-serif;
+  text-align: center;
+  margin: 0;
+}
+#hero{
+  width: 592px;
+  margin: 0 auto 72px;
+  
+}
+#hero img{
+  margin-bottom: 72px;
+}
+p, #footer{
+  color: #7D7987;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+#verde,a {
+  color: #67cb57;
+}
+a+a{
+  text-decoration: none;
+  margin-left: 28px;
+  
+}
+
+.line{
+  width: 568px;
+  height: 0;
+  border: 1px #ECEFF2 solid;
+  margin: 0 auto 8px;
+}
+/* . chama class e # chama id*/
+#bolas{
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
+#insta{
+  text-decoration: none;
+}
